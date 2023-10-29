@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/google/blueline" remote="github" name="LineageOS/android_device_google_blueline" />
+  <project path="device/google/blueline" remote="github" name="LineageOS/android_device_google_blueline" revision="refs/heads/lineage-20" />
   <project path="device/google/crosshatch" remote="github" name="ijs01140/android_device_google_crosshatch" />
-  <project path="kernel/google/msm-4.9" remote="github" name="LineageOS/android_kernel_google_msm-4.9" />
+  <project path="kernel/google/msm-4.9" remote="github" name="LineageOS/android_kernel_google_msm-4.9" revision="refs/heads/lineage-20" />
   <project path="packages/apps/ElmyraService" remote="github" name="LineageOS/android_packages_apps_ElmyraService" />
 </manifest>
