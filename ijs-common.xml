@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remove-project name="LineageOS/android_frameworks_base" />
+  <project path="frameworks/base" name="ijs01140/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
+  <remove-project name="LineageOS/android_vendor_lineage" />
+  <project path="vendor/lineage" name="ijs01140/android_vendor_lineage" />
+</manifest>
