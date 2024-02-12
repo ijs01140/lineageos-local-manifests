@@ -4,4 +4,8 @@
   <project path="frameworks/base" name="ijs01140/android_frameworks_base" groups="pdk-cw-fs,pdk-fs" />
   <remove-project name="LineageOS/android_vendor_lineage" />
   <project path="vendor/lineage" name="ijs01140/android_vendor_lineage" />
+  <remove-project name="platform/external/noto-fonts" />
+  <project path="external/noto-fonts" name="ijs01140/android-external-noto-fonts" groups="pdk" revision="refs/heads/truth-prebuilt" />
+  <remove-project name="LineageOS/android_bootable_recovery" />
+  <project path="bootable/recovery" name="ijs01140/android_bootable_recovery" groups="pdk" />
 </manifest>
